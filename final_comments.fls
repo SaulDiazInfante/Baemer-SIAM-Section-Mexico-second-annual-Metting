@@ -1,0 +1,6 @@
+PWD /home/saul/Insync/sauld@cimat.mx/Google Drive/UNISON/Ponencias/SeminarSeries2021onCOVID-19Talk
+INPUT /usr/local/texlive/2020/texmf.cnf
+INPUT /usr/local/texlive/2020/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT final_comments.tex
+OUTPUT final_comments.log

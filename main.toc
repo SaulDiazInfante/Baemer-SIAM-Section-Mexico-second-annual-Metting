@@ -1,0 +1,5 @@
+\beamer@sectionintoc {2}{The model without vaccination}{27}{0}{1}
+\beamer@sectionintoc {3}{Reproductive Vaccination Number}{33}{0}{2}
+\beamer@sectionintoc {4}{Optimal Control Problem (OCP)}{39}{0}{3}
+\beamer@sectionintoc {5}{Numerical Results}{49}{0}{4}
+\beamer@sectionintoc {6}{Final comments}{56}{0}{5}
